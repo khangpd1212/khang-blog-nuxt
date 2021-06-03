@@ -1,4 +1,14 @@
 ---
 label: Thiết kế nội thất chung cưu
 hide_body: false
-fields: []
+fields:
+- name: blog
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: blog
+  description: gugoihijpjpojopj[o
