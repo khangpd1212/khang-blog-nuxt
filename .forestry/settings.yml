@@ -9,7 +9,7 @@ sections:
   label: Blog
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: heading
   label: Blog
 upload_dir: uploads
