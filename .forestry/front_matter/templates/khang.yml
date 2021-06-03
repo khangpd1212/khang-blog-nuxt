@@ -1,4 +1,13 @@
 ---
 label: khang
 hide_body: true
-fields: []
+fields:
+- name: blog
+  type: datetime
+  label: blog
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
